@@ -1,6 +1,6 @@
 Name:		python-mslex
 Version:	1.3.0
-Release:	1
+Release:	2
 Summary:	shlex-style command line splitting for Windows
 License:	Apache-2.0
 Group:		Development/Python
